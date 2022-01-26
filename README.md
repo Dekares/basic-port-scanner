@@ -2,4 +2,4 @@
 
 Usage:
 
-```go run .\scanner.go example.com```
+```go run scanner.go example.com```
