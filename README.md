@@ -1,5 +1,5 @@
 # Basic port scanner
 
-Usage 
+Usage:
 
 ```go run .\scanner.go example.com```
