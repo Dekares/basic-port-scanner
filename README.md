@@ -1,2 +1,5 @@
-# basic-port-scanner
-Basic port scanner
+# Basic port scanner
+
+Usage 
+
+```go run .\scanner.go example.com```
